@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Display the TCP and UDP ports with PID and process name
+netstat -p -l
